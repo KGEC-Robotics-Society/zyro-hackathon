@@ -13,8 +13,9 @@ import Prize from "./components/Prize";
 import zyro from "./assets/logo/zyro_vector_white.png";
 import blackhole_desktop from "./assets/background/blackhole_desktop.mp4";
 import stars_desktop from "./assets/background/stars_desktop.mp4";
-import coda from "./assets/music/Coda.mp3";
-import inception from "./assets/music/Inception.mp3";
+// import coda from "./assets/music/Coda.mp3";
+// import inception from "./assets/music/Inception.mp3";
+import inception_2 from "./assets/music/inception_02.mp3";
 
 function App() {
   const play_toggle = () => {
@@ -145,7 +146,7 @@ function App() {
           <source id="video_src" src={stars_desktop} type="video/mp4" />
         </video>
         <audio id="music" loop>
-          <source src={inception} type="audio/mpeg" />
+          <source src={inception_2} type="audio/mpeg" />
           Your browser does not support the html audio tag.
         </audio>
         <div id="text" className="flex flex-col justify-center items-center">
