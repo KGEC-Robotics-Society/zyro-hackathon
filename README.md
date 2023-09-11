@@ -37,3 +37,4 @@ Zyro Hackathon features four exciting categories:
 Zyro Hackathon is all about empowering the next generation of innovators. Come and take part in this cool tech competition, where you can explore the world of robotics, AI, mechatronics, and innovation. Let's change the future together at Zyro Hackathon! 🚀
 
 Visit our website for more details and how to register. 🔗
+https://kgec-robotics-society.github.io/zyro-hackathon/
