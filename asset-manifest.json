@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/zyro-hackathon/static/css/main.14768f04.css",
-    "main.js": "/zyro-hackathon/static/js/main.bb677705.js",
+    "main.css": "/zyro-hackathon/static/css/main.730879e4.css",
+    "main.js": "/zyro-hackathon/static/js/main.6871c1f8.js",
     "static/js/787.e32f2430.chunk.js": "/zyro-hackathon/static/js/787.e32f2430.chunk.js",
     "static/media/milkyway_desktop.mp4": "/zyro-hackathon/static/media/milkyway_desktop.ae462909793b77b04dae.mp4",
     "static/media/blackhole_desktop.mp4": "/zyro-hackathon/static/media/blackhole_desktop.806ce1504afccd68c2a4.mp4",
     "static/media/stars_desktop.mp4": "/zyro-hackathon/static/media/stars_desktop.99f496e117982da91369.mp4",
     "static/media/inception_02.mp3": "/zyro-hackathon/static/media/inception_02.bc8ca9cc1ca577f2bae8.mp3",
     "static/media/zyro_vector_white.png": "/zyro-hackathon/static/media/zyro_vector_white.c02a4c157f7d356b81b9.png",
+    "static/media/System76_logo.png": "/zyro-hackathon/static/media/System76_logo.0a31ba348f993fcc3219.png",
+    "static/media/3d_creonimus.jpg": "/zyro-hackathon/static/media/3d_creonimus.557f0e67a97f0212d219.jpg",
     "static/media/logo.svg": "/zyro-hackathon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zyro-hackathon/index.html",
-    "main.14768f04.css.map": "/zyro-hackathon/static/css/main.14768f04.css.map",
-    "main.bb677705.js.map": "/zyro-hackathon/static/js/main.bb677705.js.map",
+    "main.730879e4.css.map": "/zyro-hackathon/static/css/main.730879e4.css.map",
+    "main.6871c1f8.js.map": "/zyro-hackathon/static/js/main.6871c1f8.js.map",
     "787.e32f2430.chunk.js.map": "/zyro-hackathon/static/js/787.e32f2430.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14768f04.css",
-    "static/js/main.bb677705.js"
+    "static/css/main.730879e4.css",
+    "static/js/main.6871c1f8.js"
   ]
 }
