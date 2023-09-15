@@ -18,7 +18,7 @@ export default function ProblemCard(problem) {
         <p className="mb-3 font-normal text-gray-400">{problem.description}</p>
         <a
           href={problem.link}
-          target="_blank"
+          download
           className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white rounded-lg focus:ring-4 focus:outline-none bg-blue-600 hover:bg-blue-700 focus:ring-blue-800 duration-150"
         >
           Read more

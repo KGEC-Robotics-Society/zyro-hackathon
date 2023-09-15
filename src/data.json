@@ -44,7 +44,7 @@
       "logo": "./iot.png",
       "title": "Electronics & IoT",
       "description": "Create web-controlled Rover for basic movements ",
-      "link": "https://docs.google.com/document/d/1YiNsjp3yAB_6aKkdX-VwjtIJ5k2apG_B/edit?usp=sharing&ouid=102648968625241640760&rtpof=true&sd=true",
+      "link": "./problem_statements/ELECTRONICS AND IOT PROBLEM STATEMENT.pdf",
       "alt": "IoT logo"
     },
     {
@@ -52,7 +52,7 @@
       "logo": "./ai_ml.png",
       "title": "AI ML",
       "description": "Build an image classification model with Neural Network",
-      "link": "https://docs.google.com/document/d/1RV3P54RNjK4LWZqdahQHmBCK8BLRC3V42KYzWXg-YkU/edit?usp=sharing",
+      "link": "./problem_statements/AI & ML PROBLEM STATEMENT.pdf",
       "alt": "AI ML logo"
     },
     {
@@ -60,7 +60,7 @@
       "logo": "./mechatronics.png",
       "title": "Mechatronics",
       "description": "Create robotic arm for precise 3D movements, transferring a box",
-      "link": "https://docs.google.com/document/d/1EtaEydLhR9kar7p19Xv7ive-Zb2z8Ny2/edit?usp=sharing&ouid=102648968625241640760&rtpof=true&sd=true",
+      "link": "./problem_statements/MECHATRONICS PROBLEM STATEMENT.pdf",
       "alt": "Mechatronics logo"
     },
     {
@@ -68,7 +68,7 @@
       "logo": "./innovation.png",
       "title": "Innovative Idea",
       "description": "Let your innovation speak on behalf of you",
-      "link": "https://docs.google.com/document/d/13PODRDeHYW8xbB_SHEX8XMANHRr5-L8HxrROLI5Kh48/edit?usp=sharing",
+      "link": "./problem_statements/Innovative Idea Problem Statement.pdf",
       "alt": "Innovation logo"
     }
   ],

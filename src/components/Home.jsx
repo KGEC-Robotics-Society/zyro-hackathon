@@ -17,7 +17,7 @@ export default function Home() {
         <source src={milkyway_desktop} type="video/mp4" />
       </video>
       {/* <h1 className="text-8xl -top-16 m-2">ZYRO</h1> */}
-      <img className="w-96 px-4 sm:px-0 filter" src={zyro} alt="ZYRO" />
+      <img className="w-96 mt-28 px-4 sm:px-0 filter" src={zyro} alt="ZYRO" />
       <br />
       <br />
       <h3 className="m-3 text-xl drop-shadow-2xl shadow-black">
@@ -29,23 +29,23 @@ export default function Home() {
         </a>
       </button>
       <h3 className="m-3 text-xl">Sponsors</h3>
-      <div className="flex justify-center items-center space-x-8 sm:space-x-12 mx-2 my-0.5 sm:mx-0">
-        <a href="https://unstop.com/" target="_blank">
+      <a href="https://unstop.com/" target="_blank" className="my-4">
+        <img
+          className="w-44 filter"
+          src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo-white.svg"
+          alt="unstop logo"
+        />
+      </a>
+      <div className="flex justify-center items-center space-x-8 sm:space-x-12 mx-2 my-4 sm:mx-0">
+        <a href="#" className="my-0">
           <img
-            className="w-36 filter"
-            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo-white.svg"
-            alt="unstop logo"
-          />
-        </a>
-        <a href="#">
-          <img
-            className="w-20 rounded-full filter"
+            className="w-20 rounded-md filter"
             src={creonimus}
             alt="3D Creonimus logo"
           />
         </a>
-        <a href="https://system76.com/" target="_blank">
-          <img className="w-36 filter" src={system76} alt="3D Creonimus logo" />
+        <a href="https://system76.com/" target="_blank" className="my-0">
+          <img className="w-40 filter" src={system76} alt="3D Creonimus logo" />
         </a>
       </div>
     </div>
