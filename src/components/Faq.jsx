@@ -72,15 +72,12 @@ export default function Faq() {
                       <a href="tel:+919851021801" className="">
                         M: <span className="text-blue-600">+91 9851021801</span>
                       </a>
+
                       <br />
-                      <a href="tel:+919749166798">
-                        M: <span className="text-blue-600">+91 9749166798</span>
-                      </a>
-                      <br />
-                      <a href="mailto: kgecroboticssociety@gmail.com">
+                      <a href="mailto: kgec.robotics.club@kgec.edu.in">
                         Email:{" "}
                         <span className="text-blue-600">
-                          kgecroboticssociety@gmail.com
+                          kgec.robotics.club@kgec.edu.in
                         </span>
                       </a>
                     </article>

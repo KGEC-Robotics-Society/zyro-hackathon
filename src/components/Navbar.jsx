@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="backdrop-blur-sm bg-white/30">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 absolute">
-        <a href="#" className="flex items-center">
+        <a href="" className="flex items-center">
           <img src={zyro} className="h-8 mr-3" alt="Zyro Logo" />
         </a>
 
@@ -42,6 +42,14 @@ export default function Navbar() {
                 className="block py-2 pl-3 pr-4 duration-150 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
               >
                 Criteria
+              </a>
+            </li>
+            <li>
+              <a
+                href="#prize_section"
+                className="block py-2 pl-3 pr-4 duration-150 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
+              >
+                Prizes
               </a>
             </li>
             <li>

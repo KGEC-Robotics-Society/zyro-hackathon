@@ -3,26 +3,38 @@
     {
       "id": 0,
       "title": "Registration Start",
-      "date": "September 15",
-      "description": "Registration will start."
+      "date": "September 16",
+      "description": "Registration start"
     },
     {
       "id": 1,
       "title": "Registration Close",
       "date": "October 15",
-      "description": "Registration will close."
+      "description": "Registration close"
     },
     {
       "id": 2,
-      "title": "Submission Deadline",
-      "date": "October 30",
-      "description": "Last date of submission."
+      "title": "Online Quiz",
+      "date": "October 16",
+      "description": "Online quiz round"
     },
     {
       "id": 3,
-      "title": "Results Announcement",
-      "date": "November 10",
-      "description": "Results will be declared."
+      "title": "Second Stage",
+      "date": "November 20",
+      "description": "Second stage starts"
+    },
+    {
+      "id": 4,
+      "title": "Submission",
+      "date": "November 15",
+      "description": "Last date of submission"
+    },
+    {
+      "id": 5,
+      "title": "Results",
+      "date": "November 30",
+      "description": "Results will be declared"
     }
   ],
 
@@ -31,25 +43,33 @@
       "id": 0,
       "logo": "./iot.png",
       "title": "Electronics & IoT",
-      "description": "as dfghj klasd fghjk asdfghjk sdfghjk dfghjk dfghjk ghj",
-      "link": "#",
+      "description": "Create web-controlled Rover for basic movements ",
+      "link": "https://docs.google.com/document/d/1YiNsjp3yAB_6aKkdX-VwjtIJ5k2apG_B/edit?usp=sharing&ouid=102648968625241640760&rtpof=true&sd=true",
       "alt": "IoT logo"
     },
     {
       "id": 1,
       "logo": "./ai_ml.png",
       "title": "AI ML",
-      "description": "as dfghj klasd fghjk asdfghjk sdfghjk dfghjk dfghjk ghj",
-      "link": "#",
+      "description": "Build an image classification model with Neural Network",
+      "link": "https://docs.google.com/document/d/1RV3P54RNjK4LWZqdahQHmBCK8BLRC3V42KYzWXg-YkU/edit?usp=sharing",
       "alt": "AI ML logo"
     },
     {
       "id": 2,
       "logo": "./mechatronics.png",
       "title": "Mechatronics",
-      "description": "as dfghj klasd fghjk asdfghjk sdfghjk dfghjk dfghjk ghj",
-      "link": "#",
+      "description": "Create robotic arm for precise 3D movements, transferring a box",
+      "link": "https://docs.google.com/document/d/1EtaEydLhR9kar7p19Xv7ive-Zb2z8Ny2/edit?usp=sharing&ouid=102648968625241640760&rtpof=true&sd=true",
       "alt": "Mechatronics logo"
+    },
+    {
+      "id": 3,
+      "logo": "./innovation.png",
+      "title": "Innovative Idea",
+      "description": "Let your innovation speak on behalf of you",
+      "link": "https://docs.google.com/document/d/13PODRDeHYW8xbB_SHEX8XMANHRr5-L8HxrROLI5Kh48/edit?usp=sharing",
+      "alt": "Innovation logo"
     }
   ],
 
@@ -64,7 +84,7 @@
       },
       {
         "id": 1,
-        "rule": "Each member in the team should be from the same institution"
+        "rule": "The team members may represent different institutions"
       },
       {
         "id": 2,

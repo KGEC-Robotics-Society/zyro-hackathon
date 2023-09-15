@@ -31,6 +31,7 @@ export default function Criteria() {
               return (
                 <li key={rule.id}>
                   <span className="font-semibold text-blue-600">{">>"}</span>
+                  &nbsp;
                   {rule.rule}
                 </li>
               );
