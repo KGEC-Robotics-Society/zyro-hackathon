@@ -5,7 +5,7 @@ export default function Faq() {
   return (
     <div
       id="faq_section"
-      className="flex flex-col mb-20 my-5 sm:my-0  justify-center items-center text-white"
+      className="flex flex-col mb-20 my-5 sm:mb-20 justify-center items-center text-white"
     >
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         {/* <div className="max-w-2xl mx-auto text-center">
