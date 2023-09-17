@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zyro-hackathon/static/css/main.5df87a3a.css",
+    "main.css": "/zyro-hackathon/static/css/main.27e5d624.css",
     "main.js": "/zyro-hackathon/static/js/main.7babac54.js",
     "static/js/787.e32f2430.chunk.js": "/zyro-hackathon/static/js/787.e32f2430.chunk.js",
     "static/media/milkyway_desktop.mp4": "/zyro-hackathon/static/media/milkyway_desktop.ae462909793b77b04dae.mp4",
@@ -12,12 +12,12 @@
     "static/media/3d_creonimus.jpg": "/zyro-hackathon/static/media/3d_creonimus.557f0e67a97f0212d219.jpg",
     "static/media/logo.svg": "/zyro-hackathon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zyro-hackathon/index.html",
-    "main.5df87a3a.css.map": "/zyro-hackathon/static/css/main.5df87a3a.css.map",
+    "main.27e5d624.css.map": "/zyro-hackathon/static/css/main.27e5d624.css.map",
     "main.7babac54.js.map": "/zyro-hackathon/static/js/main.7babac54.js.map",
     "787.e32f2430.chunk.js.map": "/zyro-hackathon/static/js/787.e32f2430.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5df87a3a.css",
+    "static/css/main.27e5d624.css",
     "static/js/main.7babac54.js"
   ]
 }
