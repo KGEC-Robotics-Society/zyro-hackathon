@@ -7,7 +7,7 @@ export default function Timeline() {
     <>
       <div
         id="timeline_section"
-        className="flex flex-col h-[calc(150vh)] sm:h-[calc(50vh)] justify-center items-center text-white"
+        className="flex flex-col my-5 sm:my-0  sm:h-[calc(50vh)] justify-center items-center text-white"
       >
         <h2 className="text-4xl font-bold my-16 sm:mt-24 mb-8">Timeline</h2>
 
