@@ -107,7 +107,7 @@ function App() {
       <button
         id="music_btn"
         onClick={play_toggle}
-        title="Contact Sale"
+        title="Toggle Music"
         className="fixed z-90 top-4 right-4  w-5 h-5 rounded-full drop-shadow-lg flex justify-center items-center text-white text-4xl hover:text-gray-500 opacity-50 active:opacity-25"
       >
         <svg
